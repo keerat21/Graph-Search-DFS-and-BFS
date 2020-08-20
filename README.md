@@ -7,5 +7,3 @@ dfs - stacked approach
 bfs- queued approach
 *check code
 
-NEXT GOAL:
-Make a graphical graph using any GUI (i have less experience in GUI)
